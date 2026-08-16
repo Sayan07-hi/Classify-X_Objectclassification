@@ -88,7 +88,7 @@ The system demonstrates the complete pipeline from **camera input to AI-based ob
 ```text
 Classify-X/
 │
-├── Classify_X.m
+├── Classify_X.mlx
 ├── Classify_X.pdf
 └── README.md
 ```
